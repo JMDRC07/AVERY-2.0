@@ -1,2 +1,2 @@
-# AVERY-2.0
+# AVERI
 VERSION 1.5
